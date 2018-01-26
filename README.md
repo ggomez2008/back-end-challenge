@@ -13,7 +13,7 @@ To return all films, you would send a GET request to: http://fandor.ggproto.com/
 
 To return just a single film, you would pass the ID of the film as a query string parameter to: http://fandor.ggproto.com/api/films/get/.
 
-For example: http://http://fandor.ggproto.com/api/films/get/?id=3
+For example: http://fandor.ggproto.com/api/films/get/?id=3
 
 
 Ratings:
