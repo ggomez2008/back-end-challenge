@@ -22,6 +22,8 @@ You can retrieve a collection of JSON objects or a single JSON object.
 
 The objects contain information about the rating, such as who submiited the rating (users_id), which film the rating is for (films_id), and the actual rating (rating).
 
+To return all ratings, you would send a GET request to: http://fandor.ggproto.com/api/ratings/get/.
+
 You can also rate a particular film by passing three query string parameters with values to: http://fandor.ggproto.com/api/ratings/post/.
 
 They are:
