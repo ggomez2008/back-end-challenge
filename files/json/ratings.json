@@ -1,0 +1,22 @@
+{
+  "ratings": [
+    {
+    	"id":1,
+    	"users_id":100,
+    	"films_id":1,
+    	"rating":5
+    },
+    {
+      "id":2,
+      "users_id":200,
+      "films_id":1,
+      "rating":3
+    },
+    {
+      "id":3,
+      "users_id":300,
+      "films_id":1,
+      "rating":1
+    }	     	    	    
+  ]
+}
